@@ -25,4 +25,6 @@
 # Run
 
 - Backend: `go run main.go`
-- Frontend: `npm start`
+- Frontend:
+  - `npm install` 
+  - `npm start`
