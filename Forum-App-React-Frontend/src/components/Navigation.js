@@ -89,9 +89,9 @@ const Navigation = () => {
 
   return (
     <div className="mb-3">
-    <div style={{"textAlign": "center"}}> Developed with <span role="img"> ❤️ </span> by <a className="link-style"  href="https://twitter.com/ethanol1310" target="_blank">@stevensunflash</a></div>
+    <div style={{"textAlign": "center"}}> Developed with <span role="img"> ❤️ </span> by <a className="link-style"  href="https://twitter.com/ethanol1310" target="_blank">@ethanol</a></div>
       <Navbar color="light" light expand="md"> 
-        <NavbarBrand className="mx-auto" href="/"><span style={{ fontWeight: "bold"}}>SeamFlow</span></NavbarBrand>
+        <NavbarBrand className="mx-auto" href="/"><span style={{ fontWeight: "bold"}}>ASPO</span></NavbarBrand>
         
         <NavbarToggler onClick={() => setIsOpen(!isOpen) } /> 
         <Collapse isOpen={isOpen} navbar> 
